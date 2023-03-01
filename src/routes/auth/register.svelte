@@ -1,5 +1,6 @@
 <script>
-
+    import SignUp from "../../components/auth/sign_up.svelte";
+    import { Link } from "carbon-components-svelte";
 </script>
 <div>
     <div class="header">

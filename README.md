@@ -1,10 +1,10 @@
-# K-inder
+# A-psps
 
-Applicazione sulla falsa riga di Tinder, il cui obbiettivo è quello di interfacciare i diversi utenti a una lista di bambini.
+Applicazione sulla falsa riga di Tinder, il cui obbiettivo è quello di interfacciare i diversi utenti a una lista di animali.
 
-## utilizzo
+## Utilizzo
 
-L'applicazione permetterà ai genitori di bambini di vedere figli di altri genitori in modo tale da valutare quali di questi siano un buon amico per il proprio pargolo.
+L'applicazione permetterà ai proprietari di animali di vedere animali di altre persone in modo tale da valutare quali di questi siano un buon amico per la propria creatura.
 
 ## Creazione
 

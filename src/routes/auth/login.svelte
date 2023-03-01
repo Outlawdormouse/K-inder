@@ -1,5 +1,5 @@
 <script>
-    import SignIn from "../../lib/auth/sign_in.svelte";
+    import SignIn from "../../components/auth/sign_in.svelte";
     import { Link } from "carbon-components-svelte";
 </script>
 <div>
