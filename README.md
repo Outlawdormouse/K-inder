@@ -1,38 +1,12 @@
-# create-svelte
+# K-inder
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Applicazione sulla falsa riga di Tinder, il cui obbiettivo è quello di interfacciare i diversi utenti a una lista di bambini.
 
-## Creating a project
+## utilizzo
 
-If you're seeing this, you've probably already done this step. Congrats!
+L'applicazione permetterà ai genitori di bambini di vedere figli di altri genitori in modo tale da valutare quali di questi siano un buon amico per il proprio pargolo.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Creazione
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Sviluppato con framework svelte e autenticazione gestita con Firebase.
+Aggiunta di Sqlite per l'implementazione di un database.
