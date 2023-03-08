@@ -10,3 +10,10 @@ L'applicazione permetterà ai proprietari di animali di vedere animali di altre 
 
 Sviluppato con framework svelte e autenticazione gestita con Firebase.
 Aggiunta di Sqlite per l'implementazione di un database.
+
+## Partecipanti
+
+- Pitti Davide
+- Lalata Jan Vincent
+- Ricci Lorenzo
+- Gasparetto Filippo
